@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 /* Global background and font */
+/* 
+update1 */
 body {
   font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
   background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 50%, #fce7f3 100%);
